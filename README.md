@@ -3,36 +3,39 @@ Overview
 Welcome to my JavaScript Mini Projects repository! Here, I've compiled a series of mini projects that helped me learn and practice various JavaScript concepts. Through these projects, I gained hands-on experience and deepened my understanding of JavaScript programming.
 
 Projects
-GuessTheNumber
 
+
+1.GuessTheNumber
 Description: Simple number guessing game.
-ImageSlider
 
+2.ImageSlider
 Description: Basic image slider with simple animation.
-PasswordGenerator
 
+3.PasswordGenerator
 Description: Generates random passwords.
-WeatherApp
 
+4.WeatherApp
 Description: A fully functional weather application.
-calculatorProgram
 
+5.calculatorProgram
 Description: Working calculator.
-dieRoll
 
+6.dieRoll
 Description: Simulates rolling a die.
-digitalClock
 
+7.digitalClock
 Description: Displays current time digitally.
-rock_paper_scissors
 
+8.rock_paper_scissors
 Description: Rock-Paper-Scissors game with a scoreboard.
-stopwatch
 
+9.stopwatch
 Description: Simple stopwatch functionality.
-temperature
 
+10.temperature
 Description: Converts temperature units.
+
+
 Learning Experience
 These projects were instrumental in my journey to mastering JavaScript. Each project allowed me to tackle different aspects of JavaScript programming, including variables, functions, loops, DOM manipulation, and event handling. By actively working on these projects, I solidified my understanding of JavaScript concepts and honed my programming skills.
 
